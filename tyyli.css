@@ -5,6 +5,8 @@ body {
 h1 {
   color: red;
   text-transform: uppercase;
+  border-style: groove;
+  border-width: 7px;
 }
 
 #muokkaus {
